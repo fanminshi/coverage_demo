@@ -1,0 +1,8 @@
+mode: set
+playground/coverage_demo/sub/sub.go:3.24,5.2 1 1
+playground/coverage_demo/add/add.go:3.24,5.2 1 0
+playground/coverage_demo/op/op.go:9.42,10.9 1 1
+playground/coverage_demo/op/op.go:19.2,19.11 1 0
+playground/coverage_demo/op/op.go:11.2,12.27 1 0
+playground/coverage_demo/op/op.go:13.2,14.27 1 1
+playground/coverage_demo/op/op.go:15.2,16.41 1 0
